@@ -6,3 +6,4 @@
 - [2026-04-22T09:58:14Z] docs: improve inline documentation
 - [2026-04-22T21:14:46Z] docs: improve inline documentation
 - [2026-04-22T20:22:05Z] style: apply consistent code formatting
+- [2026-04-22T22:32:40Z] test: add unit tests for core module
